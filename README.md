@@ -5,6 +5,48 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+(MERN+%2F+MEVN);Building+Multi-Tenant+SaaS+Architectures;Real-Time+Systems+%7C+Socket.io+%7C+PeerJS;JWT+%2F+RBAC+%7C+DevOps+on+Linux;Currently+%40+Lifelayer+Health+Solutions" alt="Typing SVG" />
 </p>
 
+---
+
+### 💻 whoami
+
+```
+
+++++++++++++++++++++++++++++++++++++++++++   prahlad@devbox
+++++++++++++++++++++++++++++++++++++++++++   ――――――――――――――
+++++++++++++++=+++++++++++++++++++++++++++   OS: ..................... Linux (Ubuntu 24.04 VPS) + Windows
+++++++++++++++=+++++++++++++++++++++++++++   Host: ................... Lifelayer Health Solutions Pvt. Ltd.
++++++++++++++++=---:---=++++++++++++++++++   Uptime: ................. Full-Stack Dev, 2+ yrs shipping MERN/MEVN
++++++++++++++-:-+*##*+=-:-=+++++++++++++++   Kernel: ................. MERN / MEVN
++++++++++++=.-#@@@@@%%%%*-.=+++++++++=++++   IDE: .................... VS Code
+++++++++++=.+@@@@@@@@@%%%%+ =+++++++++++++
+++++++++++-.%@%%%###%%#***#.-+++++++++++++   Languages.Frontend: ..... React.js, React Native (Expo), Vue.js
++++++=++++= #%%%%##*****+:*.-+++++++++++++   Languages.Backend: ...... Node.js, Express.js, REST APIs
+=++++=+=++= #%%@@@@%*%@%%+=.-+++++==+=++++   Languages.Database: ..... MongoDB, Mongoose, MySQL
+=+++++++++= #%#**#%#--++- :.-++++++==+++++   Languages.DevOps: ....... Linux, Nginx, PM2, GitHub Actions, Certbot
++++++++++=..=*%**#%%%#**+-: -++++++++=++++
++++++==+++::=.-#%%%####%*+..=+++++++++++++   Hobbies.Building: ....... Full-stack side projects, portfolio R&D
++++++===++= *=.*%#%#*++*+:.=++++++=+++++++   Hobbies.Focus: .......... Multi-tenant SaaS, real-time systems
++++++==+++::*+:#@%%####*-.:=++++++++++++++
+=+++++++=-.+=--*#%%@@%*:+#: -=++++++++++++   Contact.Portfolio: ...... prahladsingh.in
+++==-::::-**+======-=+=::*:  .::-=++++++++   Contact.GitHub: ......... github.com/PrahladWebDev
+=:::----+#***++++=-:::..:+.:.::.  .=++++++   Contact.LinkedIn: ....... linkedin.com/in/prahlad-singh-52162b232
+.:=-=+=*#*******++=::---=:==-= ..   -+++++   Contact.Email: .......... prahlad.singh.dev@gmail.com
+---=+****++********++-:+=::...    .: :++++
+++*%#******+*****+-:-==+:.. .     ..-.:+++   GitHub Stats: ........... see badges below ↓
++#%%%##*************==:=..:. .     .== :++
+*%%%####%%%%###***===- --.::.::.  ..-+. -+
+#%%%#%%%%%%%%#%%%##*--..=.::--*=...:.--  =
+%%%%%%%%***+++++-:::.-: ---:--=+==++-+=. .
+%%%%%%#*=*#==++-::::.=-.-:.--::-:-:.:+=:
+%%%%%#%*-+#+-=-=-:::.:-:-=..-. ..-. .++-
+@@@%%%@*=+###*+-===-::...=-.::. ..-:.**=..
+%%%%%%%*=*#**#*++=---:-:::-:--. . .-.++=:.
+-------:::--::::::::::::::::::::::::::::::
+++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++
+
+```
+
 <p align="center">
   <a href="https://www.linkedin.com/in/prahlad-singh-52162b232" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -23,18 +65,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PrahladWebDev&label=Profile%20Views&color=ffd23f&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/PrahladWebDev?label=Followers&style=for-the-badge&color=0d0d0d" alt="followers" />
+  <img src="https://img.shields.io/github/stars/PrahladWebDev?label=Stars&style=for-the-badge&color=FFD23F" alt="stars" />
 </p>
-
----
-
-### 🚀 About Me
-
-- 🔭 Currently building a large-scale **healthcare platform** at **Lifelayer Health Solutions Pvt. Ltd.** — telemedicine, DICOM imaging, ambulance tracking & Razorpay payments
-- 🏗️ Specialize in **multi-tenant SaaS architecture**, **JWT/RBAC auth**, and **real-time systems** (Socket.io, PeerJS, Redis)
-- 🌱 Currently sharpening skills in scalable system design and DevOps automation
-- 💬 Ask me about **MERN/MEVN**, real-time apps, or multi-tenant database design
-- 📍 Based in **Gurgaon, Haryana, India**
-- ⚡ Fun fact: I run on ☕ and `console.log()`
 
 ---
 
@@ -48,10 +80,10 @@
 <summary><b>📦 Full Stack Breakdown</b></summary>
 <br>
 
-**Frontend:** React.js · Vue.js · Redux Toolkit · Vuex · JavaScript (ES6+) · Tailwind CSS · HTML5/CSS3 · Vite  
-**Backend:** Node.js · Express.js · RESTful APIs · Socket.io · PeerJS (WebRTC) · Redis · JWT · RBAC · PHP  
-**Database:** MongoDB · Mongoose · Multi-Tenant Architecture · MySQL · Schema Design & Indexing  
-**DevOps & Tools:** Linux · Nginx · PM2 · GitHub Actions (CI/CD) · Git · SSH/SCP · SSL · Postman · Puppeteer · Cloudinary  
+**Frontend:** React.js · Vue.js · Redux Toolkit · Vuex · JavaScript (ES6+) · Tailwind CSS · HTML5/CSS3 · Vite
+**Backend:** Node.js · Express.js · RESTful APIs · Socket.io · PeerJS (WebRTC) · Redis · JWT · RBAC · PHP
+**Database:** MongoDB · Mongoose · Multi-Tenant Architecture · MySQL · Schema Design & Indexing
+**DevOps & Tools:** Linux · Nginx · PM2 · GitHub Actions (CI/CD) · Git · SSH/SCP · SSL · Postman · Puppeteer · Cloudinary
 **Payments & Media:** Razorpay Integration · DICOM Medical Imaging · Video Streaming · Cron Automation
 
 </details>
@@ -65,6 +97,7 @@
 | 🔐 **ShareVault** | Secure file & video sharing platform — expiring links, OTP, admin Video Vault, auto-cleanup engine | [Live](https://sharevault.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/share-vault) |
 | 🌍 **MythLok** | World folklore & mythology platform — 500+ stories, 20+ countries, contributor workflow, badges | [Live](https://mythlok.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/mythlok) |
 | 🏫 **School ERP** | Multi-tenant school management system — academics, attendance, fees, real-time notifications | [Live](https://schoolerp.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/school-erp-mern) |
+| 👕 **Wardrobe Manager** | React Native + Expo wardrobe app — cost-per-wear analytics, weather-aware outfits, packing lists | Repo · Live API |
 
 ---
 
