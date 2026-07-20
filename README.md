@@ -12,7 +12,7 @@
 <a href="mailto:prahlad.singh.dev@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-1a1a2e?style=for-the-badge&logo=gmail&logoColor=E0AAFF" />
 </a>
-<a href="https://portfolio.prahladsingh.in/" target="_blank">
+<a href="https://prahladsingh.in/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=9D4EDD" />
 </a>
 <a href="https://wa.me/919149062842" target="_blank">
@@ -85,7 +85,7 @@
   <a href="mailto:prahlad.singh.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-1a1a2e?style=flat-square&logo=gmail&logoColor=E0AAFF" /></a>
   <a href="https://www.linkedin.com/in/prahlad-singh-52162b232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-1a1a2e?style=flat-square&logo=linkedin&logoColor=C77DFF" /></a>
   <a href="https://wa.me/919149062842" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-1a1a2e?style=flat-square&logo=whatsapp&logoColor=9D4EDD" /></a>
-  <a href="https://portfolio.prahladsingh.in/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-1a1a2e?style=flat-square&logo=vercel&logoColor=E0AAFF" /></a>
+  <a href="https://prahladsingh.in/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-1a1a2e?style=flat-square&logo=vercel&logoColor=E0AAFF" /></a>
 </p>
 
 <p align="center"><i>✨ Open to full-time opportunities — let's build something great together 🚀</i></p>
