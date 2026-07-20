@@ -31,8 +31,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PrahladWebDev&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=FFD23F&icon_color=FFD23F&text_color=c9c9c9&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrahladWebDev&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=FFD23F&text_color=c9c9c9" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=PrahladWebDev&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=FFD23F&icon_color=FFD23F&text_color=c9c9c9&count_private=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=PrahladWebDev&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=FFD23F&text_color=c9c9c9" />
 </p>
 
 <p align="center">
