@@ -73,7 +73,7 @@
 | 🔐 **ShareVault** | Secure file & video sharing platform — expiring links, OTP, admin Video Vault, auto-cleanup engine | [Live](https://sharevault.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/share-vault) |
 | 🌍 **MythLok** | World folklore & mythology platform — 500+ stories, 20+ countries, contributor workflow, badges | [Live](https://mythlok.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/mythlok) |
 | 🏫 **School ERP** | Multi-tenant school management system — academics, attendance, fees, real-time notifications | [Live](https://schoolerp.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/school-erp-mern) |
-| 👕 **Wardrobe Manager** | React Native + Expo wardrobe app — cost-per-wear analytics, weather-aware outfits, packing lists | Repo · Live API |
+| 👕 **Wardrobe Manager** | React Native + Expo wardrobe app — cost-per-wear analytics, weather-aware outfits, packing lists | [APK](https://sharevault.prahladsingh.in/share/009c99b900946f86bbf2feed8358e5efda6eeb44e0da7c57) · [Repo](https://github.com/PrahladWebDev/wardrobe-manager-react-native.git) |
 | 🎯 **GrabVid** | Terminal app to download videos from YouTube, X, Instagram & more — built with Ink (React for CLIs), 6 themes, format picker, live progress & history | [Repo](https://github.com/PrahladWebDev/grab-vid.git) |
 | ➤ **Zip Router** | Full source code for Zip Router, a MERN-stack puzzle game with a procedural Hamiltonian-path level generator, server-side solution validation, star ratings, and JWT-based auth. Includes the seed script, puzzle generation and validation logic, and the Vite/React frontend. | [Live](https://ziprouter.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/zip-router.git) |
 
