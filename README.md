@@ -74,6 +74,7 @@
 | 🌍 **MythLok** | World folklore & mythology platform — 500+ stories, 20+ countries, contributor workflow, badges | [Live](https://mythlok.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/mythlok) |
 | 🏫 **School ERP** | Multi-tenant school management system — academics, attendance, fees, real-time notifications | [Live](https://schoolerp.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/school-erp-mern) |
 | 👕 **Wardrobe Manager** | React Native + Expo wardrobe app — cost-per-wear analytics, weather-aware outfits, packing lists | Repo · Live API |
+| 🏫 **GrabVid** | Terminal app to download videos from YouTube, X, Instagram & more — built with Ink (React for CLIs), 6 themes, format picker, live progress & history | [Repo](https://github.com/PrahladWebDev/grab-vid.git) |
 
 </div>
 
