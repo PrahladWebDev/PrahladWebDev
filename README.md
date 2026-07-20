@@ -5,48 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD23F&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+(MERN+%2F+MEVN);Building+Multi-Tenant+SaaS+Architectures;Real-Time+Systems+%7C+Socket.io+%7C+PeerJS;JWT+%2F+RBAC+%7C+DevOps+on+Linux;Currently+%40+Lifelayer+Health+Solutions" alt="Typing SVG" />
 </p>
 
----
-
-### 💻 whoami
-
-```
-
-++++++++++++++++++++++++++++++++++++++++++   prahlad@devbox
-++++++++++++++++++++++++++++++++++++++++++   ――――――――――――――
-++++++++++++++=+++++++++++++++++++++++++++   OS: ..................... Linux (Ubuntu 24.04 VPS) + Windows
-++++++++++++++=+++++++++++++++++++++++++++   Host: ................... Lifelayer Health Solutions Pvt. Ltd.
-+++++++++++++++=---:---=++++++++++++++++++   Uptime: ................. Full-Stack Dev, 2+ yrs shipping MERN/MEVN
-+++++++++++++-:-+*##*+=-:-=+++++++++++++++   Kernel: ................. MERN / MEVN
-+++++++++++=.-#@@@@@%%%%*-.=+++++++++=++++   IDE: .................... VS Code
-++++++++++=.+@@@@@@@@@%%%%+ =+++++++++++++
-++++++++++-.%@%%%###%%#***#.-+++++++++++++   Languages.Frontend: ..... React.js, React Native (Expo), Vue.js
-+++++=++++= #%%%%##*****+:*.-+++++++++++++   Languages.Backend: ...... Node.js, Express.js, REST APIs
-=++++=+=++= #%%@@@@%*%@%%+=.-+++++==+=++++   Languages.Database: ..... MongoDB, Mongoose, MySQL
-=+++++++++= #%#**#%#--++- :.-++++++==+++++   Languages.DevOps: ....... Linux, Nginx, PM2, GitHub Actions, Certbot
-+++++++++=..=*%**#%%%#**+-: -++++++++=++++
-+++++==+++::=.-#%%%####%*+..=+++++++++++++   Hobbies.Building: ....... Full-stack side projects, portfolio R&D
-+++++===++= *=.*%#%#*++*+:.=++++++=+++++++   Hobbies.Focus: .......... Multi-tenant SaaS, real-time systems
-+++++==+++::*+:#@%%####*-.:=++++++++++++++
-=+++++++=-.+=--*#%%@@%*:+#: -=++++++++++++   Contact.Portfolio: ...... prahladsingh.in
-++==-::::-**+======-=+=::*:  .::-=++++++++   Contact.GitHub: ......... github.com/PrahladWebDev
-=:::----+#***++++=-:::..:+.:.::.  .=++++++   Contact.LinkedIn: ....... linkedin.com/in/prahlad-singh-52162b232
-.:=-=+=*#*******++=::---=:==-= ..   -+++++   Contact.Email: .......... prahlad.singh.dev@gmail.com
----=+****++********++-:+=::...    .: :++++
-++*%#******+*****+-:-==+:.. .     ..-.:+++   GitHub Stats: ........... see badges below ↓
-+#%%%##*************==:=..:. .     .== :++
-*%%%####%%%%###***===- --.::.::.  ..-+. -+
-#%%%#%%%%%%%%#%%%##*--..=.::--*=...:.--  =
-%%%%%%%%***+++++-:::.-: ---:--=+==++-+=. .
-%%%%%%#*=*#==++-::::.=-.-:.--::-:-:.:+=:
-%%%%%#%*-+#+-=-=-:::.:-:-=..-. ..-. .++-
-@@@%%%@*=+###*+-===-::...=-.::. ..-:.**=..
-%%%%%%%*=*#**#*++=---:-:::-:--. . .-.++=:.
--------:::--::::::::::::::::::::::::::::::
-++++++++++++++++++++++++++++++++++++++++++
-++++++++++++++++++++++++++++++++++++++++++
-
-```
-
 <p align="center">
   <a href="https://www.linkedin.com/in/prahlad-singh-52162b232" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -66,6 +24,23 @@
   <img src="https://komarev.com/ghpvc/?username=PrahladWebDev&label=Profile%20Views&color=ffd23f&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/PrahladWebDev?label=Followers&style=for-the-badge&color=0d0d0d" alt="followers" />
   <img src="https://img.shields.io/github/stars/PrahladWebDev?label=Stars&style=for-the-badge&color=FFD23F" alt="stars" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PrahladWebDev&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=FFD23F&icon_color=FFD23F&text_color=c9c9c9&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrahladWebDev&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=FFD23F&text_color=c9c9c9" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrahladWebDev&theme=dark&hide_border=true&background=0d0d0d&ring=FFD23F&fire=FFD23F&currStreakLabel=FFD23F" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrahladWebDev&theme=github-compact&hide_border=true&bg_color=0d0d0d&color=FFD23F&line=FFD23F&point=ffffff" />
 </p>
 
 ---
