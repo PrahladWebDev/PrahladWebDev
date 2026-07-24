@@ -77,6 +77,7 @@
 | 🎯 **GrabVid** | Terminal app to download videos from YouTube, X, Instagram & more — built with Ink (React for CLIs), 6 themes, format picker, live progress & history | [Repo](https://github.com/PrahladWebDev/grab-vid.git) |
 | ➤ **Zip Router** | Full source code for Zip Router, a MERN-stack puzzle game with a procedural Hamiltonian-path level generator, server-side solution validation, star ratings, and JWT-based auth. Includes the seed script, puzzle generation and validation logic, and the Vite/React frontend. | [Live](https://ziprouter.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/zip-router.git) |
 | 👾 **GitHub Personality Analyzer** | A full-stack web app that takes any GitHub username and generates a "developer personality" report — profile stats, personality badges, language breakdown, a commit heatmap, top repos, and an AI-written summary powered by Google's Gemini API. Includes a side-by-side compare mode for two developers. | [Live](https://ghanalyzer.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/github-analyzer) |
+| 👜 **Brain Vault** | An AI-powered knowledge management system — save URLs from anywhere on the web, and let AI extract, summarize, tag, and connect them into an interactive, Obsidian-style knowledge graph. | [Live](https://brainvault.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/brain-vault) |
 
 </div>
 
