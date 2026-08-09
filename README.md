@@ -80,6 +80,7 @@
 | 👜 **Brain Vault** | An AI-powered knowledge management system — save URLs from anywhere on the web, and let AI extract, summarize, tag, and connect them into an interactive, Obsidian-style knowledge graph. | [Live](https://brainvault.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/brain-vault) |
 | 🧠 InterviewVault | A full-stack AI-powered interview preparation platform featuring a Monaco code editor, real-time code execution via Piston, spaced repetition, AI interview assistance with Gemini, collections, graph visualisation, activity heatmaps, secure JWT authentication, and export/import support. | [Live](https://interviewvault.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/interview-vault) |
 | 📋 Clipboard Cloud | Instant, cross-device clipboard sync. Pair two devices with a QR code or a 6-digit code and anything copied on one appears on the other in real time — no login required, with an optional account for permanent saved snippets. | [Live](https://clipboard.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/clipboard-cloud-) |
+| 🧪 Assessment Platform | Live admin dashboard for Assessment Platform — build exams, manage the question bank, invite candidates, monitor live progress, and export reports. | [Live](https://admin.assessment.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/assessment-platform) |
 
 </div>
 
