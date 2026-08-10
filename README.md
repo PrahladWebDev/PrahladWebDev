@@ -52,15 +52,29 @@
   <img src="https://skillicons.dev/icons?i=react,vue,js,html,css,tailwind,nodejs,express,mongodb,mysql,redis,git,github,linux,nginx,postman&theme=dark" />
 </p>
 
-<details>
-<summary><b>📦 Full Stack Breakdown</b></summary>
-<br>
+<details> <summary><b>📦 Full Stack Breakdown</b></summary> <br>
 
-**Frontend:** React.js · Vue.js · Redux Toolkit · Vuex · JavaScript (ES6+) · Tailwind CSS · HTML5/CSS3 · Vite
-**Backend:** Node.js · Express.js · RESTful APIs · Socket.io · PeerJS (WebRTC) · Redis · JWT · RBAC · PHP
-**Database:** MongoDB · Mongoose · Multi-Tenant Architecture · MySQL · Schema Design & Indexing
-**DevOps & Tools:** Linux · Nginx · PM2 · GitHub Actions (CI/CD) · Git · SSH/SCP · SSL · Postman · Puppeteer · Cloudinary
-**Payments & Media:** Razorpay Integration · DICOM Medical Imaging · Video Streaming · Cron Automation
+Frontend: React.js · Vue.js · React Native · Expo · Redux Toolkit · Vuex · JavaScript (ES6+) · HTML5 · CSS3 · Tailwind CSS · Vuetify · Vite · Axios · Monaco Editor
+
+Backend: Node.js · Express.js · RESTful APIs · Socket.io · PeerJS · WebRTC · Redis · JWT · RBAC · PHP · Piston Code Execution API · Gemini API
+
+Database: MongoDB · Mongoose · MySQL · Multi-Tenant Database Architecture · MongoDB Atlas · Schema Design · Indexing · Aggregation Pipelines
+
+Real-Time & Communication: Socket.io · WebSockets · PeerJS · WebRTC · Real-Time Notifications · User/Admin Namespaces · Room-Based Communication · QR/Code-Based Device Pairing
+
+Authentication & Security: JWT Authentication · Role-Based Access Control (RBAC) · OTP Verification · Password Hashing · Protected APIs · Secure File Sharing · Expiring Links
+
+DevOps & Infrastructure: Linux · Nginx · PM2 · GitHub Actions · CI/CD · Git · GitHub · SSH · SCP · SSL/TLS · Let's Encrypt · VPS Deployment · DNS · Domain & Subdomain Configuration
+
+Tools & Libraries: Postman · Puppeteer · Cloudinary · Moment.js · Nodemailer · Brevo · Axios · Vue Toastification · React Query · Redux Toolkit · Vuex
+
+Payments & Media: Razorpay · DICOM Medical Imaging · Video Streaming · File Uploads · Cloudinary · OTP-Based Media Access · Automated File Cleanup
+
+Automation & Background Processing: Node.js Cron Jobs · Scheduled Tasks · Automated Cleanup Engines · Notification Systems · Email Automation · Background Processing
+
+AI & Developer Tools: Google Gemini API · AI-Powered Summarization · AI Interview Assistance · AI Knowledge Extraction · Monaco Code Editor · Piston Code Execution
+
+Architecture & Engineering: MERN · MEVN · Multi-Tenant SaaS Architecture · Modular Backend Architecture · REST API Design · Service-Based Architecture · Schema Design · API Integration · Real-Time Systems · Scalable Authentication Architecture
 
 </details>
 
