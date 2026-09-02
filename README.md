@@ -85,7 +85,7 @@ Architecture & Engineering: MERN · MEVN · Multi-Tenant SaaS Architecture · Mo
 | Project | Description | Links |
 |---|---|---|
 | 🔐 **ShareVault** | Secure file & video sharing platform — expiring links, OTP, admin Video Vault, auto-cleanup engine | [Live](https://sharevault.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/share-vault) |
-| 🌍 **MythLok** | World folklore & mythology platform — 500+ stories, 20+ countries, contributor workflow, badges | [Live](https://mythlok.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/mythlok) |
+| 🌍 **GathaLok** | World folklore & mythology platform — 500+ stories, 20+ countries, contributor workflow, badges | [Live](https://gathalok.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/gathalok) |
 | 🏫 **School ERP** | Multi-tenant school management system — academics, attendance, fees, real-time notifications | [Live](https://schoolerp.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/school-erp-mern) |
 | 👕 **Wardrobe Manager** | React Native + Expo wardrobe app — cost-per-wear analytics, weather-aware outfits, packing lists | [APK](https://sharevault.prahladsingh.in/share/cb0940f519073199d74e564b87e5923db5675963a8fc7455) · [Repo](https://github.com/PrahladWebDev/wardrobe-manager-react-native.git) |
 | 🎯 **GrabVid** | Terminal app to download videos from YouTube, X, Instagram & more — built with Ink (React for CLIs), 6 themes, format picker, live progress & history | [Repo](https://github.com/PrahladWebDev/grab-vid.git) |
