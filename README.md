@@ -96,6 +96,8 @@ Architecture & Engineering: MERN · MEVN · Multi-Tenant SaaS Architecture · Mo
 | 📋 Clipboard Cloud | Instant, cross-device clipboard sync. Pair two devices with a QR code or a 6-digit code and anything copied on one appears on the other in real time — no login required, with an optional account for permanent saved snippets. | [Live](https://clipboard.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/clipboard-cloud-) |
 | 🧪 Assessment Platform | Live admin dashboard for Assessment Platform — build exams, manage the question bank, invite candidates, monitor live progress, and export reports. | [Live](https://admin.assessment.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/assessment-platform) |
 | 🕵️ Codebase Detective | Analyze your codebase. Find hidden complexity. Understand your architecture. | [Live](https://detective.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/codebase-detective.git) |
+| 💰 Expense Tracker | A full-stack expense tracker: Spring Boot 3 / Java 21 / MySQL backend, React 19 / TypeScript / Vite frontend. Built as a learning project — see LEARNING.md for concept explanations (Java, Spring Boot, JWT, React, TanStack Query, etc.) tied to where each concept is used in this codebase. | [Live](expensetracker.prahladsingh.in) · [Repo](https://github.com/PrahladWebDev/expense-tracker-java) |
+
 
 
 </div>
