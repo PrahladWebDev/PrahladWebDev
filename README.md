@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Prahlad%20Singh&fontSize=46&fontColor=E0AAFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%2F%20MEVN%20%7C%20Multi-Tenant%20SaaS&descAlignY=58&descSize=18&descColor=9D4EDD" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+(MERN+%2F+MEVN);Building+Multi-Tenant+SaaS+Architectures;Real-Time+Systems+%7C+Socket.io+%7C+PeerJS;JWT+%2F+RBAC+%7C+DevOps+on+Linux;Currently+%40+Lifelayer+Health+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+(MERN+%2F+MEVN);Building+Multi-Tenant+SaaS+Architectures;Real-Time+Systems+%7C+Socket.io+%7C+PeerJS;Web+%7C+Mobile+%7C+Desktop+(Electron);JWT+%2F+RBAC+%7C+DevOps+on+Linux;Currently+%40+Lifelayer+Health+Solutions" alt="Typing SVG" />
 
 <br>
 
@@ -49,22 +49,24 @@
 <h3 align="center">🛰️ Tech Constellation</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,js,html,css,tailwind,nodejs,express,mongodb,mysql,redis,git,github,linux,nginx,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,vue,js,ts,html,css,tailwind,nextjs,nodejs,express,nestjs,electron,java,spring,mongodb,mysql,redis,git,github,linux,nginx,postman&theme=dark" />
 </p>
 
 <details> <summary><b>📦 Full Stack Breakdown</b></summary> <br>
 
-Frontend: React.js · Vue.js · React Native · Expo · Redux Toolkit · Vuex · JavaScript (ES6+) · HTML5 · CSS3 · Tailwind CSS · Vuetify · Vite · Axios · Monaco Editor
+Frontend: React.js · Vue.js · Next.js · React Native · Expo · Electron · Redux Toolkit · Vuex · TanStack Query / React Query · JavaScript (ES6+) · TypeScript · HTML5 · CSS3 · Tailwind CSS · Vuetify · Vite · Axios · Monaco Editor
 
-Backend: Node.js · Express.js · RESTful APIs · Socket.io · PeerJS · WebRTC · Redis · JWT · RBAC · PHP · Piston Code Execution API · Gemini API
+Backend: Node.js · Express.js · NestJS · Java · Spring Boot · RESTful APIs · Socket.io · PeerJS · WebRTC · Redis · JWT · RBAC · PHP · Piston Code Execution API · Gemini API
 
-Database: MongoDB · Mongoose · MySQL · Multi-Tenant Database Architecture · MongoDB Atlas · Schema Design · Indexing · Aggregation Pipelines
+Database: MongoDB · Mongoose · MySQL · Spring Data JPA · Multi-Tenant Database Architecture · MongoDB Atlas · Schema Design · Indexing · Aggregation Pipelines
 
 Real-Time & Communication: Socket.io · WebSockets · PeerJS · WebRTC · Real-Time Notifications · User/Admin Namespaces · Room-Based Communication · QR/Code-Based Device Pairing
 
 Authentication & Security: JWT Authentication · Role-Based Access Control (RBAC) · OTP Verification · Password Hashing · Protected APIs · Secure File Sharing · Expiring Links
 
 DevOps & Infrastructure: Linux · Nginx · PM2 · GitHub Actions · CI/CD · Git · GitHub · SSH · SCP · SSL/TLS · Let's Encrypt · VPS Deployment · DNS · Domain & Subdomain Configuration
+
+App Publishing: Google Play Store · Microsoft Store · Electron Desktop Builds · Android APK Builds (Expo)
 
 Tools & Libraries: Postman · Puppeteer · Cloudinary · Moment.js · Nodemailer · Brevo · Axios · Vue Toastification · React Query · Redux Toolkit · Vuex
 
@@ -85,20 +87,19 @@ Architecture & Engineering: MERN · MEVN · Multi-Tenant SaaS Architecture · Mo
 | Project | Description | Links |
 |---|---|---|
 | 🔐 **ShareVault** | Secure file & video sharing platform — expiring links, OTP, admin Video Vault, auto-cleanup engine | [Live](https://sharevault.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/share-vault) |
-| 🌍 **GathaLok** | World folklore & mythology platform — 500+ stories, 20+ countries, contributor workflow, badges | [Live](https://gathalok.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/gathalok) |
+| 🌍 **GathaLok** | World folklore & mythology platform (Web + Android + Windows/Electron) — 500+ stories, 20+ countries, contributor workflow, badges | [Live](https://gathalok.prahladsingh.in/) · [Microsoft Store](https://apps.microsoft.com/detail/9PP0R2RCS99W) · [Repo](https://github.com/PrahladWebDev/gathalok) |
 | 🏫 **School ERP** | Multi-tenant school management system — academics, attendance, fees, real-time notifications | [Live](https://schoolerp.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/school-erp-mern) |
-| 👕 **Wardrobe Manager** | React Native + Expo wardrobe app — cost-per-wear analytics, weather-aware outfits, packing lists | [APK](https://sharevault.prahladsingh.in/share/290870d8e6548ef7532f1ce912e21b1802a39b2a1c04844d) · [Repo](https://github.com/PrahladWebDev/wardrobe-manager-react-native.git) |
-| 🎯 **GrabVid** | Terminal app to download videos from YouTube, X, Instagram & more — built with Ink (React for CLIs), 6 themes, format picker, live progress & history | [Repo](https://github.com/PrahladWebDev/grab-vid.git) |
+| 👕 **Foldd - Wardrobe Manager** | React Native + Expo wardrobe app — cost-per-wear analytics, weather-aware outfits, packing lists | [APK](https://sharevault.prahladsingh.in/share/f8ef4de8ab4865b7adc021b2fb2b45c4a68da4b1459076b5) · [Repo](https://github.com/PrahladWebDev/wardrobe-manager-react-native.git) |
+| 🎲 **Random Person Picker** | React Native (Expo) random winner picker — add people with photos, import from phone contacts, saved lists tied to your account, animated shuffle with sound & haptics | Play Store — coming soon |
+| 🎯 **GrabVid** | Terminal app to download videos from YouTube, X, Instagram & more — built with Ink (React for CLIs), 6 themes, format picker, live progress & history | [npm](https://www.npmjs.com/package/grabvid-cli) · [Repo](https://github.com/PrahladWebDev/grab-vid.git) |
 | ➤ **Zip Router** | Full source code for Zip Router, a MERN-stack puzzle game with a procedural Hamiltonian-path level generator, server-side solution validation, star ratings, and JWT-based auth. Includes the seed script, puzzle generation and validation logic, and the Vite/React frontend. | [Live](https://ziprouter.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/zip-router.git) |
 | 👾 **GitHub Personality Analyzer** | A full-stack web app that takes any GitHub username and generates a "developer personality" report — profile stats, personality badges, language breakdown, a commit heatmap, top repos, and an AI-written summary powered by Google's Gemini API. Includes a side-by-side compare mode for two developers. | [Live](https://ghanalyzer.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/github-analyzer) |
 | 👜 **Brain Vault** | An AI-powered knowledge management system — save URLs from anywhere on the web, and let AI extract, summarize, tag, and connect them into an interactive, Obsidian-style knowledge graph. | [Live](https://brainvault.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/brain-vault) |
-| 🧠 InterviewVault | A full-stack AI-powered interview preparation platform featuring a Monaco code editor, real-time code execution via Piston, spaced repetition, AI interview assistance with Gemini, collections, graph visualisation, activity heatmaps, secure JWT authentication, and export/import support. | [Live](https://interviewvault.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/interview-vault) |
-| 📋 Clipboard Cloud | Instant, cross-device clipboard sync. Pair two devices with a QR code or a 6-digit code and anything copied on one appears on the other in real time — no login required, with an optional account for permanent saved snippets. | [Live](https://clipboard.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/clipboard-cloud-) |
-| 🧪 Assessment Platform | Live admin dashboard for Assessment Platform — build exams, manage the question bank, invite candidates, monitor live progress, and export reports. | [Live](https://admin.assessment.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/assessment-platform) |
-| 🕵️ Codebase Detective | Analyze your codebase. Find hidden complexity. Understand your architecture. | [Live](https://detective.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/codebase-detective.git) |
-| 💰 Expense Tracker | A full-stack expense tracker: Spring Boot 3 / Java 21 / MySQL backend, React 19 / TypeScript / Vite frontend. Built as a learning project — see LEARNING.md for concept explanations (Java, Spring Boot, JWT, React, TanStack Query, etc.) tied to where each concept is used in this codebase. | [Live](expensetracker.prahladsingh.in) · [Repo](https://github.com/PrahladWebDev/expense-tracker-java) |
-
-
+| 🧠 **InterviewVault** | A full-stack AI-powered interview preparation platform featuring a Monaco code editor, real-time code execution via Piston, spaced repetition, AI interview assistance with Gemini, collections, graph visualisation, activity heatmaps, secure JWT authentication, and export/import support. | [Live](https://interviewvault.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/interview-vault) |
+| 📋 **Clipboard Cloud** | Instant, cross-device clipboard sync. Pair two devices with a QR code or a 6-digit code and anything copied on one appears on the other in real time — no login required, with an optional account for permanent saved snippets. | [Live](https://clipboard.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/clipboard-cloud-) |
+| 🧪 **Assessment Platform** | Live admin dashboard for Assessment Platform — build exams, manage the question bank, invite candidates, monitor live progress, and export reports. | [Live](https://admin.assessment.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/assessment-platform) |
+| 🕵️ **Codebase Detective** | Analyze your codebase. Find hidden complexity. Understand your architecture. | [Live](https://detective.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/codebase-detective.git) |
+| 💰 **Expense Tracker** | A full-stack expense tracker: Spring Boot 3 / Java 21 / MySQL backend, React 19 / TypeScript / Vite frontend. Built as a learning project — see LEARNING.md for concept explanations (Java, Spring Boot, JWT, React, TanStack Query, etc.) tied to where each concept is used in this codebase. | [Live](https://expensetracker.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/expense-tracker-java) |
 
 </div>
 
