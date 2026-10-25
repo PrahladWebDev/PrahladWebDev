@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Prahlad%20Singh&fontSize=46&fontColor=E0AAFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%2F%20MEVN%20%7C%20Multi-Tenant%20SaaS&descAlignY=58&descSize=18&descColor=9D4EDD" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3A0CA3,50:7B2CBF,100:C77DFF&height=230&section=header&text=Prahlad%20Singh&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%2F%20MEVN%20%7C%20Multi-Tenant%20SaaS&descAlignY=58&descSize=18&descColor=FFFFFF" />
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Prahlad+Singh;Full-Stack+Developer+(MERN+%2F+MEVN);Building+Multi-Tenant+SaaS+Architectures;Real-Time+Systems+%7C+Socket.io+%7C+PeerJS;Web+%7C+Mobile+%7C+Desktop+(Electron);JWT+%2F+RBAC+%7C+DevOps+on+Linux;Currently+%40+Lifelayer+Health+Solutions" />
@@ -86,8 +86,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,vue,js,ts,html,css,tailwind,nextjs,nodejs,express,nestjs,electron,java,spring,mongodb,mysql,redis,git,github,linux,nginx,postman&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,vue,js,ts,html,css,tailwind,nextjs,nodejs,express,nestjs,electron,java,spring,mongodb,mysql,redis,git,github,linux,nginx,postman&theme=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cvue%2Cjs%2Cts%2Chtml%2Ccss%2Ctailwind%2Cnextjs%2Cnodejs%2Cexpress%2Cnestjs%2Celectron%2Cjava%2Cspring%2Cmongodb%2Cmysql%2Credis%2Cgit%2Cgithub%2Clinux%2Cnginx%2Cpostman&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react%2Cvue%2Cjs%2Cts%2Chtml%2Ccss%2Ctailwind%2Cnextjs%2Cnodejs%2Cexpress%2Cnestjs%2Celectron%2Cjava%2Cspring%2Cmongodb%2Cmysql%2Credis%2Cgit%2Cgithub%2Clinux%2Cnginx%2Cpostman&theme=light" />
     <img src="https://skillicons.dev/icons?i=react,vue,js,ts,html,css,tailwind,nextjs,nodejs,express,nestjs,electron,java,spring,mongodb,mysql,redis,git,github,linux,nginx,postman&theme=dark" alt="Tech stack" />
   </picture>
 </p>
@@ -226,4 +226,4 @@ Architecture & Engineering: MERN · MEVN · Multi-Tenant SaaS Architecture · Mo
   </picture>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C77DFF,50:7B2CBF,100:3A0CA3&height=120&section=footer" />
