@@ -154,6 +154,37 @@ Architecture & Engineering: MERN · MEVN · Multi-Tenant SaaS Architecture · Mo
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
+<h3 align="center">🧪 Prahlad Singh Labs</h3>
+
+<div align="center">
+
+<em>Ideas → Apps → Real Impact — Building Useful Apps for Everyday Life</em>
+
+<br><br>
+
+**Prahlad Singh Labs** is my independent developer label for publishing apps across stores — Innovate · Build · Share.
+
+<br>
+
+<a href="https://apps.microsoft.com/detail/9PP0R2RCS99W" target="_blank">
+  <img width="90%" src="./assets/prahlad-singh-labs-microsoft-store.jpg" alt="Prahlad Singh Labs on Microsoft Store — Gathalok and GitHub Analyzer" />
+</a>
+
+<br><br>
+
+<img width="90%" src="./assets/prahlad-singh-labs-google-play.jpg" alt="Prahlad Singh Labs on Google Play — Gathalok and FoldD" />
+
+<br><br>
+
+| Store | Apps |
+|---|---|
+| 🪟 **Microsoft Store** | **Gathalok** — Mythology & Folklore Stories · **GitHub Analyzer** — Analyze GitHub Profiles & Repositories |
+| ▶️ **Google Play** | **Gathalok** — Mythology & Folklore Stories · **FoldD** — Wardrobe Manager |
+
+</div>
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
 <h3 align="center">📡 Signal Me</h3>
 
 <p align="center">
