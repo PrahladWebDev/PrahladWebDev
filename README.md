@@ -188,15 +188,20 @@ Architecture & Engineering: MERN · MEVN · Multi-Tenant SaaS Architecture · Mo
 
 <br>
 
-<a href="https://apps.microsoft.com/search/publisher?name=Prahlad+Singh+Labs&hl=en-GB&gl=IN" target="_blank">
-  <img width="90%" src="./assets/prahlad-singh-labs-microsoft-store.jpg" alt="Prahlad Singh Labs on Microsoft Store — Gathalok and GitHub Analyzer" />
-</a>
-
-<br><br>
-
-<a href="https://play.google.com/store/apps/dev?id=8176885441993860314&hl=en_IN" target="_blank">
-  <img width="90%" src="./assets/prahlad-singh-labs-google-play.jpg" alt="Prahlad Singh Labs on Google Play — Gathalok and FoldD" />
-</a>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://apps.microsoft.com/search/publisher?name=Prahlad+Singh+Labs&hl=en-GB&gl=IN" target="_blank">
+        <img src="./assets/prahlad-singh-labs-microsoft-store.jpg" alt="Prahlad Singh Labs on Microsoft Store — Gathalok and GitHub Analyzer" width="100%" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://play.google.com/store/apps/dev?id=8176885441993860314&hl=en_IN" target="_blank">
+        <img src="./assets/prahlad-singh-labs-google-play.jpg" alt="Prahlad Singh Labs on Google Play — Gathalok and FoldD" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br><br>
 
