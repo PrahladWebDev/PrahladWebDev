@@ -1,8 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Prahlad%20Singh&fontSize=46&fontColor=E0AAFF&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%2F%20MEVN%20%7C%20Multi-Tenant%20SaaS&descAlignY=58&descSize=18&descColor=9D4EDD" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Prahlad%20Singh&fontSize=46&fontColor=E0AAFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%2F%20MEVN%20%7C%20Multi-Tenant%20SaaS&descAlignY=58&descSize=18&descColor=9D4EDD" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Prahlad+Singh;Full-Stack+Developer+(MERN+%2F+MEVN);Building+Multi-Tenant+SaaS+Architectures;Real-Time+Systems+%7C+Socket.io+%7C+PeerJS;Web+%7C+Mobile+%7C+Desktop+(Electron);JWT+%2F+RBAC+%7C+DevOps+on+Linux;Currently+%40+Lifelayer+Health+Solutions" alt="Typing SVG" />
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Prahlad+Singh;Full-Stack+Developer+(MERN+%2F+MEVN);Building+Multi-Tenant+SaaS+Architectures;Real-Time+Systems+%7C+Socket.io+%7C+PeerJS;Web+%7C+Mobile+%7C+Desktop+(Electron);JWT+%2F+RBAC+%7C+DevOps+on+Linux;Currently+%40+Lifelayer+Health+Solutions" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7B2CBF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Prahlad+Singh;Full-Stack+Developer+(MERN+%2F+MEVN);Building+Multi-Tenant+SaaS+Architectures;Real-Time+Systems+%7C+Socket.io+%7C+PeerJS;Web+%7C+Mobile+%7C+Desktop+(Electron);JWT+%2F+RBAC+%7C+DevOps+on+Linux;Currently+%40+Lifelayer+Health+Solutions" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Prahlad+Singh;Full-Stack+Developer+(MERN+%2F+MEVN);Building+Multi-Tenant+SaaS+Architectures;Real-Time+Systems+%7C+Socket.io+%7C+PeerJS;Web+%7C+Mobile+%7C+Desktop+(Electron);JWT+%2F+RBAC+%7C+DevOps+on+Linux;Currently+%40+Lifelayer+Health+Solutions" alt="Typing SVG" />
+  </picture>
 
 <br>
 
@@ -35,7 +39,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=1200&color=E0AAFF&center=true&vCenter=true&width=700&lines=%F0%9F%94%AD+Working+on+a+large-scale+multi-tenant+healthcare+SaaS;%F0%9F%8C%B1+Shipping+web%2C+Android+%26+desktop+apps;%E2%9A%A1+Real-time+systems+with+Socket.io+%2B+WebRTC;%F0%9F%9A%80+Everything+deployed+on+my+own+VPS" alt="Mission brief" />
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=1200&color=E0AAFF&center=true&vCenter=true&width=700&lines=%F0%9F%94%AD+Working+on+a+large-scale+multi-tenant+healthcare+SaaS;%F0%9F%8C%B1+Shipping+web%2C+Android+%26+desktop+apps;%E2%9A%A1+Real-time+systems+with+Socket.io+%2B+WebRTC;%F0%9F%9A%80+Everything+deployed+on+my+own+VPS" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=1200&color=5A189A&center=true&vCenter=true&width=700&lines=%F0%9F%94%AD+Working+on+a+large-scale+multi-tenant+healthcare+SaaS;%F0%9F%8C%B1+Shipping+web%2C+Android+%26+desktop+apps;%E2%9A%A1+Real-time+systems+with+Socket.io+%2B+WebRTC;%F0%9F%9A%80+Everything+deployed+on+my+own+VPS" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=1200&color=E0AAFF&center=true&vCenter=true&width=700&lines=%F0%9F%94%AD+Working+on+a+large-scale+multi-tenant+healthcare+SaaS;%F0%9F%8C%B1+Shipping+web%2C+Android+%26+desktop+apps;%E2%9A%A1+Real-time+systems+with+Socket.io+%2B+WebRTC;%F0%9F%9A%80+Everything+deployed+on+my+own+VPS" alt="Mission brief" />
+  </picture>
 
 </div>
 
@@ -77,11 +85,19 @@
 <h3 align="center">🛰️ Tech Constellation</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,js,ts,html,css,tailwind,nextjs,nodejs,express,nestjs,electron,java,spring,mongodb,mysql,redis,git,github,linux,nginx,postman&theme=dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,vue,js,ts,html,css,tailwind,nextjs,nodejs,express,nestjs,electron,java,spring,mongodb,mysql,redis,git,github,linux,nginx,postman&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,vue,js,ts,html,css,tailwind,nextjs,nodejs,express,nestjs,electron,java,spring,mongodb,mysql,redis,git,github,linux,nginx,postman&theme=light" />
+    <img src="https://skillicons.dev/icons?i=react,vue,js,ts,html,css,tailwind,nextjs,nodejs,express,nestjs,electron,java,spring,mongodb,mysql,redis,git,github,linux,nginx,postman&theme=dark" alt="Tech stack" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=800&color=9D4EDD&center=true&vCenter=true&width=600&lines=git+commit+-m+%22ship+it%22;git+push+origin+main;pm2+restart+all;nginx+-t+%26%26+systemctl+reload+nginx;Deployment+completed+%E2%9C%85" alt="terminal typing" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=800&color=9D4EDD&center=true&vCenter=true&width=600&lines=git+commit+-m+%22ship+it%22;git+push+origin+main;pm2+restart+all;nginx+-t+%26%26+systemctl+reload+nginx;Deployment+completed+%E2%9C%85" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=800&color=7B2CBF&center=true&vCenter=true&width=600&lines=git+commit+-m+%22ship+it%22;git+push+origin+main;pm2+restart+all;nginx+-t+%26%26+systemctl+reload+nginx;Deployment+completed+%E2%9C%85" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=800&color=9D4EDD&center=true&vCenter=true&width=600&lines=git+commit+-m+%22ship+it%22;git+push+origin+main;pm2+restart+all;nginx+-t+%26%26+systemctl+reload+nginx;Deployment+completed+%E2%9C%85" alt="terminal typing" />
+  </picture>
 </p>
 
 <details> <summary><b>📦 Full Stack Breakdown</b></summary> <br>
@@ -203,7 +219,11 @@ Architecture & Engineering: MERN · MEVN · Multi-Tenant SaaS Architecture · Mo
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1500&color=C77DFF&center=true&vCenter=true&width=650&lines=%E2%9C%A8+Open+to+full-time+opportunities;Let's+build+something+great+together+%F0%9F%9A%80" alt="open to work" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1500&color=C77DFF&center=true&vCenter=true&width=650&lines=%E2%9C%A8+Open+to+full-time+opportunities;Let's+build+something+great+together+%F0%9F%9A%80" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1500&color=7B2CBF&center=true&vCenter=true&width=650&lines=%E2%9C%A8+Open+to+full-time+opportunities;Let's+build+something+great+together+%F0%9F%9A%80" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1500&color=C77DFF&center=true&vCenter=true&width=650&lines=%E2%9C%A8+Open+to+full-time+opportunities;Let's+build+something+great+together+%F0%9F%9A%80" alt="open to work" />
+  </picture>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
