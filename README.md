@@ -154,7 +154,13 @@ Architecture & Engineering: MERN · MEVN · Multi-Tenant SaaS Architecture · Mo
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-<h3 align="center">🧪 Prahlad Singh Labs</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/prahlad-singh-labs-logo-dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/prahlad-singh-labs-logo-light.png" />
+    <img alt="Prahlad Singh Labs" src="./assets/prahlad-singh-labs-logo-dark.png" width="420" />
+  </picture>
+</p>
 
 <div align="center">
 
