@@ -166,20 +166,22 @@ Architecture & Engineering: MERN · MEVN · Multi-Tenant SaaS Architecture · Mo
 
 <br>
 
-<a href="https://apps.microsoft.com/detail/9PP0R2RCS99W" target="_blank">
+<a href="https://apps.microsoft.com/search/publisher?name=Prahlad+Singh+Labs&hl=en-GB&gl=IN" target="_blank">
   <img width="90%" src="./assets/prahlad-singh-labs-microsoft-store.jpg" alt="Prahlad Singh Labs on Microsoft Store — Gathalok and GitHub Analyzer" />
 </a>
 
 <br><br>
 
-<img width="90%" src="./assets/prahlad-singh-labs-google-play.jpg" alt="Prahlad Singh Labs on Google Play — Gathalok and FoldD" />
+<a href="https://play.google.com/store/apps/dev?id=8176885441993860314&hl=en_IN" target="_blank">
+  <img width="90%" src="./assets/prahlad-singh-labs-google-play.jpg" alt="Prahlad Singh Labs on Google Play — Gathalok and FoldD" />
+</a>
 
 <br><br>
 
-| Store | Apps |
-|---|---|
-| 🪟 **Microsoft Store** | **Gathalok** — Mythology & Folklore Stories · **GitHub Analyzer** — Analyze GitHub Profiles & Repositories |
-| ▶️ **Google Play** | **Gathalok** — Mythology & Folklore Stories · **FoldD** — Wardrobe Manager |
+| Store | Apps | Link |
+|---|---|---|
+| <img src="./assets/icon-microsoft-store.png" width="24" align="center" /> **Microsoft Store** | **Gathalok** — Mythology & Folklore Stories · **GitHub Analyzer** — Analyze GitHub Profiles & Repositories | [View all apps](https://apps.microsoft.com/search/publisher?name=Prahlad+Singh+Labs&hl=en-GB&gl=IN) |
+| <img src="./assets/icon-google-play.png" width="24" align="center" /> **Google Play** | **Gathalok** — Mythology & Folklore Stories · **FoldD** — Wardrobe Manager | [View all apps](https://play.google.com/store/apps/dev?id=8176885441993860314&hl=en_IN) |
 
 </div>
 
