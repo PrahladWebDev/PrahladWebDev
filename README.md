@@ -206,7 +206,7 @@ Architecture & Engineering: MERN · MEVN · Multi-Tenant SaaS Architecture · Mo
     </td>
     <td width="50%" align="center">
       <a href="https://play.google.com/store/apps/dev?id=8176885441993860314&hl=en_IN" target="_blank">
-        <img src="./assets/prahlad-singh-labs-play-store.jpg" alt="Prahlad Singh Labs on Google Play" width="100%" />
+        <img src="./assets/prahlad-singh-labs-google-play.jpg" alt="Prahlad Singh Labs on Google Play" width="100%" />
       </a>
     </td>
   </tr>
