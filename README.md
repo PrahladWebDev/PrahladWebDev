@@ -133,17 +133,22 @@ Architecture & Engineering: MERN · MEVN · Multi-Tenant SaaS Architecture · Mo
 <h3 align="center">📌 Pinned Orbits (Live Repo Stats)</h3>
 
 <p align="center">
-  <a href="https://github.com/PrahladWebDev/gathalok"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=gathalok&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=C77DFF&icon_color=9D4EDD&text_color=c9c9c9" /></a>
+  <a href="https://github.com/PrahladWebDev/matinee"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=matinee&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=C77DFF&icon_color=9D4EDD&text_color=c9c9c9" /></a>
   <a href="https://github.com/PrahladWebDev/share-vault"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=share-vault&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=C77DFF&icon_color=9D4EDD&text_color=c9c9c9" /></a>
 </p>
 <p align="center">
+  <a href="https://github.com/PrahladWebDev/gathalok"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=gathalok&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=C77DFF&icon_color=9D4EDD&text_color=c9c9c9" /></a>
   <a href="https://github.com/PrahladWebDev/school-erp-mern"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=school-erp-mern&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=C77DFF&icon_color=9D4EDD&text_color=c9c9c9" /></a>
-  <a href="https://github.com/PrahladWebDev/brain-vault"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=brain-vault&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=C77DFF&icon_color=9D4EDD&text_color=c9c9c9" /></a>
 </p>
 <p align="center">
+  <a href="https://github.com/PrahladWebDev/brain-vault"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=brain-vault&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=C77DFF&icon_color=9D4EDD&text_color=c9c9c9" /></a>
   <a href="https://github.com/PrahladWebDev/interview-vault"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=interview-vault&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=C77DFF&icon_color=9D4EDD&text_color=c9c9c9" /></a>
-  <a href="https://github.com/PrahladWebDev/clipboard-cloud-"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=clipboard-cloud-&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=C77DFF&icon_color=9D4EDD&text_color=c9c9c9" /></a>
 </p>
+<p align="center">
+  <a href="https://github.com/PrahladWebDev/github-analyzer"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=github-analyzer&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=C77DFF&icon_color=9D4EDD&text_color=c9c9c9" /></a>
+  <a href="https://github.com/PrahladWebDev/wardrobe-manager-react-native"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=wardrobe-manager-react-native&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=C77DFF&icon_color=9D4EDD&text_color=c9c9c9" /></a>
+</p>
+
 
 <h3 align="center">🌌 Featured Galaxies</h3>
 
@@ -151,20 +156,24 @@ Architecture & Engineering: MERN · MEVN · Multi-Tenant SaaS Architecture · Mo
 
 | Project | Description | Links |
 |---|---|---|
-| 🔐 **ShareVault** | Secure file & video sharing platform — expiring links, OTP, admin Video Vault, auto-cleanup engine | [Live](https://sharevault.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/share-vault) |
-| 🌍 **GathaLok** | World folklore & mythology platform (Web + Android + Windows/Electron) — 500+ stories, 20+ countries, contributor workflow, badges | [Live](https://gathalok.prahladsingh.in/) · [Microsoft Store](https://apps.microsoft.com/detail/9PP0R2RCS99W) · [Play Store](https://play.google.com/store/apps/details?id=com.gathalok.app&hl=en_IN) · [Repo](https://github.com/PrahladWebDev/gathalok) |
-| 🏫 **School ERP** | Multi-tenant school management system — academics, attendance, fees, real-time notifications | [Live](https://schoolerp.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/school-erp-mern) |
-| 👕 **Foldd - Wardrobe Manager** | React Native + Expo wardrobe app — cost-per-wear analytics, weather-aware outfits, packing lists | [Play Store](https://play.google.com/store/apps/details?id=com.wardrobemanager.app&hl=en_IN) · [Repo](https://github.com/PrahladWebDev/wardrobe-manager-react-native.git) |
-| 🎲 **Random Person Picker** | React Native (Expo) random winner picker — add people with photos, import from phone contacts, saved lists tied to your account, animated shuffle with sound & haptics | [Play Store](https://play.google.com/store/apps/details?id=com.prahlad.randompick&hl=en_IN) · [Repo](https://github.com/PrahladWebDev/random-person-picker.git) |
-| 🎯 **GrabVid** | Terminal app to download videos from YouTube, X, Instagram & more — built with Ink (React for CLIs), 6 themes, format picker, live progress & history | [npm](https://www.npmjs.com/package/grabvid-cli) · [Repo](https://github.com/PrahladWebDev/grab-vid.git) |
-| ➤ **Zip Router** | Full source code for Zip Router, a MERN-stack puzzle game with a procedural Hamiltonian-path level generator, server-side solution validation, star ratings, and JWT-based auth. Includes the seed script, puzzle generation and validation logic, and the Vite/React frontend. | [Live](https://ziprouter.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/zip-router.git) |
-| 👾 **GitHub Personality Analyzer** | A full-stack web app that takes any GitHub username and generates a "developer personality" report — profile stats, personality badges, language breakdown, a commit heatmap, top repos, and an AI-written summary powered by Google's Gemini API. Includes a side-by-side compare mode for two developers. | [Live](https://ghanalyzer.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/github-analyzer) |
-| 👜 **Brain Vault** | An AI-powered knowledge management system — save URLs from anywhere on the web, and let AI extract, summarize, tag, and connect them into an interactive, Obsidian-style knowledge graph. | [Live](https://brainvault.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/brain-vault) |
-| 🧠 **InterviewVault** | A full-stack AI-powered interview preparation platform featuring a Monaco code editor, real-time code execution via Piston, spaced repetition, AI interview assistance with Gemini, collections, graph visualisation, activity heatmaps, secure JWT authentication, and export/import support. | [Live](https://interviewvault.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/interview-vault) |
-| 📋 **Clipboard Cloud** | Instant, cross-device clipboard sync. Pair two devices with a QR code or a 6-digit code and anything copied on one appears on the other in real time — no login required, with an optional account for permanent saved snippets. | [Live](https://clipboard.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/clipboard-cloud-) |
-| 🧪 **Assessment Platform** | Live admin dashboard for Assessment Platform — build exams, manage the question bank, invite candidates, monitor live progress, and export reports. | [Live](https://admin.assessment.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/assessment-platform) |
-| 🕵️ **Codebase Detective** | Analyze your codebase. Find hidden complexity. Understand your architecture. | [Live](https://detective.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/codebase-detective.git) |
-| 💰 **Expense Tracker** | A full-stack expense tracker: Spring Boot 3 / Java 21 / MySQL backend, React 19 / TypeScript / Vite frontend. Built as a learning project — see LEARNING.md for concept explanations (Java, Spring Boot, JWT, React, TanStack Query, etc.) tied to where each concept is used in this codebase. | [Live](https://expensetracker.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/expense-tracker-java) |
+| 🎬 **Matinee** | Personal streaming site — your own media library with a clean, modern interface | [Repo](https://github.com/PrahladWebDev/matinee) |
+| 🔐 **ShareVault** | Secure MERN file & video sharing platform — expiring links, OTP verification, admin Video Vault, automated cleanup engine | [Live](https://sharevault.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/share-vault) |
+| 🌍 **GathaLok** | World folklore & mythology platform (Web + Android + Windows/Electron) — 500+ stories, 20+ countries, contributor workflow, badges | [Live](https://gathalok.prahladsingh.in/) · [Microsoft Store](https://apps.microsoft.com/detail/9PP0R2RCS99W) · [Play Store](https://play.google.com/store/apps/details?id=com.gathalok.app&hl=en_IN) · [Web Repo](https://github.com/PrahladWebDev/gathalok) · [Mobile](https://github.com/PrahladWebDev/gathalok-app) · [Desktop](https://github.com/PrahladWebDev/gathalok-windows-mac) |
+| 🏫 **School ERP** | Multi-tenant MERN school management system — academics, attendance, fees, real-time notifications with role-based dashboards | [Live](https://schoolerp.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/school-erp-mern) |
+| 👕 **Foldd - Wardrobe Manager** | React Native + Expo wardrobe app — cost-per-wear analytics, weather-aware outfits, packing lists | [Play Store](https://play.google.com/store/apps/details?id=com.wardrobemanager.app&hl=en_IN) · [Repo](https://github.com/PrahladWebDev/wardrobe-manager-react-native) |
+| 🎲 **Random Person Picker** | React Native (Expo) random winner picker — add people with photos, import from contacts, saved lists, animated shuffle with sound & haptics | [Play Store](https://play.google.com/store/apps/details?id=com.prahlad.randompick&hl=en_IN) · [Repo](https://github.com/PrahladWebDev/random-person-picker) |
+| 🎯 **GrabVid** | Terminal app to download videos from YouTube, X, Instagram & more — built with Ink (React for CLIs), 6 themes, format picker, live progress & history | [npm](https://www.npmjs.com/package/grabvid-cli) · [Repo](https://github.com/PrahladWebDev/grab-vid) |
+| 🧩 **Zip Router** | MERN-stack puzzle game with procedural Hamiltonian-path level generator, server-side solution validation, star ratings, JWT auth | [Live](https://ziprouter.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/zip-router) |
+| 👾 **GitHub Personality Analyzer** | Full-stack app that generates a developer personality report — badges, language breakdown, commit heatmap, radar chart & Gemini AI summary + compare mode | [Live](https://ghanalyzer.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/github-analyzer) |
+| 🧠 **Brain Vault** | AI-powered knowledge management system — save URLs, let AI extract, summarize, tag, and connect them into an interactive Obsidian-style knowledge graph | [Live](https://brainvault.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/brain-vault) |
+| 💼 **InterviewVault** | AI-powered interview prep platform — Monaco editor, real code execution (Piston), spaced repetition, Gemini AI assistance, graph view, analytics | [Live](https://interviewvault.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/interview-vault) |
+| 📋 **Clipboard Cloud** | Instant cross-device clipboard sync — pair via QR or 6-digit code, real-time copy, optional account for permanent snippets | [Live](https://clipboard.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/clipboard-cloud-) |
+| 🧪 **Assessment Platform** | Proctored, timed exam platform with Monaco code editor, autosave, auto-submit + admin dashboard for question bank & live monitoring | [Live](https://admin.assessment.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/assessment-platform) |
+| 🕵️ **Codebase Detective** | Analyze your codebase — find hidden complexity and understand architecture | [Live](https://detective.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/codebase-detective) |
+| 💰 **Expense Tracker** | Full-stack expense tracker (Spring Boot 3 / Java 21 / MySQL + React 19 / TypeScript / Vite) — learning project with concept explanations | [Live](https://expensetracker.prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/expense-tracker-java) |
+| 🤖 **Personal AI Agent** | Production-ready AI agent that knows and answers questions about one developer — skills, experience, projects | [Repo](https://github.com/PrahladWebDev/personal-ai-agent) |
+| 🏫 **Vidya Setu** | MCA first project — admin/faculty portal for college outreach program (school visits, student counts, board type, progress tracking) | [Repo](https://github.com/PrahladWebDev/vidya-setu) |
+| 🌐 **Portfolio** | Personal portfolio site showcasing projects and skills | [Live](https://prahladsingh.in/) · [Repo](https://github.com/PrahladWebDev/prahlad-singh-portfolio) |
 
 </div>
 
@@ -197,18 +206,11 @@ Architecture & Engineering: MERN · MEVN · Multi-Tenant SaaS Architecture · Mo
     </td>
     <td width="50%" align="center">
       <a href="https://play.google.com/store/apps/dev?id=8176885441993860314&hl=en_IN" target="_blank">
-        <img src="./assets/prahlad-singh-labs-google-play.jpg" alt="Prahlad Singh Labs on Google Play — Gathalok and FoldD" width="100%" />
+        <img src="./assets/prahlad-singh-labs-play-store.jpg" alt="Prahlad Singh Labs on Google Play" width="100%" />
       </a>
     </td>
   </tr>
 </table>
-
-<br><br>
-
-| Store | Apps | Link |
-|---|---|---|
-| <img src="./assets/icon-microsoft-store.png" width="24" align="center" /> **Microsoft Store** | **Gathalok** — Mythology & Folklore Stories · **GitHub Analyzer** — Analyze GitHub Profiles & Repositories | [View all apps](https://apps.microsoft.com/search/publisher?name=Prahlad+Singh+Labs&hl=en-GB&gl=IN) |
-| <img src="./assets/icon-google-play.png" width="24" align="center" /> **Google Play** | **Gathalok** — Mythology & Folklore Stories · **FoldD** — Wardrobe Manager | [View all apps](https://play.google.com/store/apps/dev?id=8176885441993860314&hl=en_IN) |
 
 </div>
 
