@@ -17,11 +17,11 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=PrahladWebDev&label=Profile%20Views&color=ffc2d4&labelColor=3d3560&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/PrahladWebDev?label=Followers&style=for-the-badge&labelColor=3d3560&color=bfeedd" alt="followers" />
-<img src="https://img.shields.io/github/stars/PrahladWebDev?label=Stars&style=for-the-badge&labelColor=3d3560&color=ffe9a6" alt="stars" />
-<img src="https://img.shields.io/github/languages/count/PrahladWebDev/gathalok?label=Languages&style=for-the-badge&labelColor=3d3560&color=bfe3ff" alt="languages" />
-<img src="https://img.shields.io/github/last-commit/PrahladWebDev/gathalok?label=Last%20Commit&style=for-the-badge&labelColor=3d3560&color=dccfff" alt="last commit" />
+<img src="https://komarev.com/ghpvc/?username=PrahladWebDev&label=Profile%20Views&color=ffc2d4&labelColor=141b33&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/PrahladWebDev?label=Followers&style=for-the-badge&labelColor=141b33&color=bfeedd" alt="followers" />
+<img src="https://img.shields.io/github/stars/PrahladWebDev?label=Stars&style=for-the-badge&labelColor=141b33&color=ffe9a6" alt="stars" />
+<img src="https://img.shields.io/github/languages/count/PrahladWebDev/gathalok?label=Languages&style=for-the-badge&labelColor=141b33&color=bfe3ff" alt="languages" />
+<img src="https://img.shields.io/github/last-commit/PrahladWebDev/gathalok?label=Last%20Commit&style=for-the-badge&labelColor=141b33&color=dccfff" alt="last commit" />
 
 </div>
 
@@ -44,12 +44,12 @@
 <p align="center"><img height="62" src="./assets/toon-h-orbit.svg" alt="orbit" /></p>
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=PrahladWebDev&show_icons=true&bg_color=fff7ec&title_color=3d3560&text_color=6a6288&icon_color=ff8f7a&border_color=3d3560&border_radius=22&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=PrahladWebDev&layout=compact&bg_color=fff7ec&title_color=3d3560&text_color=6a6288&icon_color=ff8f7a&border_color=3d3560&border_radius=22&langs_count=8" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=PrahladWebDev&show_icons=true&bg_color=141b33&title_color=f2a93b&text_color=ece9ff&icon_color=f2a93b&border_color=8f89d4&border_radius=22&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=PrahladWebDev&layout=compact&bg_color=141b33&title_color=f2a93b&text_color=ece9ff&icon_color=f2a93b&border_color=8f89d4&border_radius=22&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PrahladWebDev&background=fff7ec&border=3d3560&stroke=3d3560&ring=ff8f7a&fire=ffb347&currStreakLabel=3d3560&currStreakNum=3d3560&sideLabels=3d3560&sideNums=3d3560&dates=6a6288&border_radius=22" />
+  <img src="https://streak-stats.demolab.com/?user=PrahladWebDev&background=141b33&border=8f89d4&stroke=8f89d4&ring=f2a93b&fire=ff8f7a&currStreakLabel=f2a93b&currStreakNum=ece9ff&sideLabels=f2a93b&sideNums=ece9ff&dates=a7a3c9&border_radius=22" />
 </p>
 
 <p align="center">
@@ -61,8 +61,8 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrahladWebDev/PrahladWebDev/output/github-snake-toon-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrahladWebDev/PrahladWebDev/output/github-snake-toon-light.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/PrahladWebDev/PrahladWebDev/output/github-snake-toon-light.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrahladWebDev/PrahladWebDev/output/github-snake-toon-dark.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/PrahladWebDev/PrahladWebDev/output/github-snake-toon-dark.svg" />
   </picture>
 </p>
 
@@ -77,7 +77,7 @@
 <p align="center"><img height="62" src="./assets/toon-h-tech.svg" alt="tech" /></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,js,ts,html,css,tailwind,nextjs,nodejs,express,nestjs,electron,java,spring,mongodb,mysql,redis,git,github,linux,nginx,postman&theme=light" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=react,vue,js,ts,html,css,tailwind,nextjs,nodejs,express,nestjs,electron,java,spring,mongodb,mysql,redis,git,github,linux,nginx,postman&theme=dark" alt="Tech stack" />
 </p>
 
 <p align="center">
@@ -112,20 +112,20 @@
 <p align="center"><img height="62" src="./assets/toon-h-pinned.svg" alt="pinned" /></p>
 
 <p align="center">
-  <a href="https://github.com/PrahladWebDev/matinee"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=matinee&bg_color=fff7ec&title_color=3d3560&text_color=6a6288&icon_color=ff8f7a&border_color=3d3560&border_radius=22" /></a>
-  <a href="https://github.com/PrahladWebDev/share-vault"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=share-vault&bg_color=fff7ec&title_color=3d3560&text_color=6a6288&icon_color=ff8f7a&border_color=3d3560&border_radius=22" /></a>
+  <a href="https://github.com/PrahladWebDev/matinee"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=matinee&bg_color=141b33&title_color=f2a93b&text_color=ece9ff&icon_color=f2a93b&border_color=8f89d4&border_radius=22" /></a>
+  <a href="https://github.com/PrahladWebDev/share-vault"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=share-vault&bg_color=141b33&title_color=f2a93b&text_color=ece9ff&icon_color=f2a93b&border_color=8f89d4&border_radius=22" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/PrahladWebDev/gathalok"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=gathalok&bg_color=fff7ec&title_color=3d3560&text_color=6a6288&icon_color=ff8f7a&border_color=3d3560&border_radius=22" /></a>
-  <a href="https://github.com/PrahladWebDev/school-erp-mern"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=school-erp-mern&bg_color=fff7ec&title_color=3d3560&text_color=6a6288&icon_color=ff8f7a&border_color=3d3560&border_radius=22" /></a>
+  <a href="https://github.com/PrahladWebDev/gathalok"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=gathalok&bg_color=141b33&title_color=f2a93b&text_color=ece9ff&icon_color=f2a93b&border_color=8f89d4&border_radius=22" /></a>
+  <a href="https://github.com/PrahladWebDev/school-erp-mern"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=school-erp-mern&bg_color=141b33&title_color=f2a93b&text_color=ece9ff&icon_color=f2a93b&border_color=8f89d4&border_radius=22" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/PrahladWebDev/brain-vault"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=brain-vault&bg_color=fff7ec&title_color=3d3560&text_color=6a6288&icon_color=ff8f7a&border_color=3d3560&border_radius=22" /></a>
-  <a href="https://github.com/PrahladWebDev/interview-vault"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=interview-vault&bg_color=fff7ec&title_color=3d3560&text_color=6a6288&icon_color=ff8f7a&border_color=3d3560&border_radius=22" /></a>
+  <a href="https://github.com/PrahladWebDev/brain-vault"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=brain-vault&bg_color=141b33&title_color=f2a93b&text_color=ece9ff&icon_color=f2a93b&border_color=8f89d4&border_radius=22" /></a>
+  <a href="https://github.com/PrahladWebDev/interview-vault"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=interview-vault&bg_color=141b33&title_color=f2a93b&text_color=ece9ff&icon_color=f2a93b&border_color=8f89d4&border_radius=22" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/PrahladWebDev/github-analyzer"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=github-analyzer&bg_color=fff7ec&title_color=3d3560&text_color=6a6288&icon_color=ff8f7a&border_color=3d3560&border_radius=22" /></a>
-  <a href="https://github.com/PrahladWebDev/wardrobe-manager-react-native"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=wardrobe-manager-react-native&bg_color=fff7ec&title_color=3d3560&text_color=6a6288&icon_color=ff8f7a&border_color=3d3560&border_radius=22" /></a>
+  <a href="https://github.com/PrahladWebDev/github-analyzer"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=github-analyzer&bg_color=141b33&title_color=f2a93b&text_color=ece9ff&icon_color=f2a93b&border_color=8f89d4&border_radius=22" /></a>
+  <a href="https://github.com/PrahladWebDev/wardrobe-manager-react-native"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=wardrobe-manager-react-native&bg_color=141b33&title_color=f2a93b&text_color=ece9ff&icon_color=f2a93b&border_color=8f89d4&border_radius=22" /></a>
 </p>
 
 <p align="center"><img height="62" src="./assets/toon-h-galaxies.svg" alt="galaxies" /></p>

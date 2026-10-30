@@ -16,7 +16,13 @@ OUT = os.path.join(ROOT, 'assets', 'generated')
 G = json.load(open(os.path.join(HERE, 'fredoka-glyphs.json'), encoding='utf-8'))
 UPM = G['upm']
 
-INK='#3d3560'; CREAM='#fff7ec'; PINK='#ffc2d4'; BUTTER='#ffe9a6'; MINT='#bfeedd'; SKY='#bfe3ff'; LILAC='#dccfff'; ACCENT='#ff8f7a'; MUTED='#6a6288'
+INK='#8f89d4'; SH='#05070f'; TXT='#ece9ff'; CARD='#141b33'; CREAM=CARD; MUTED='#a7a3c9'   # Midnight theme: outline / shadow / text / card
+BR_PINK='#ffc2d4'; BR_BUTTER='#ffe9a6'; BR_MINT='#bfeedd'; BR_SKY='#bfe3ff'; BR_LILAC='#dccfff'
+def _mix(a, b=CARD, k=.46):
+    A=[int(a[i:i+2],16) for i in (1,3,5)]; B=[int(b[i:i+2],16) for i in (1,3,5)]
+    return '#%02x%02x%02x' % tuple(round(B[j]*(1-k)+A[j]*k) for j in range(3))
+PINK=_mix(BR_PINK); BUTTER=_mix(BR_BUTTER); MINT=_mix(BR_MINT); SKY=_mix(BR_SKY); LILAC=_mix(BR_LILAC)
+ACCENT='#f2a93b'
 STAR='M0-11 L3.2-3.2 L11 0 L3.2 3.2 L0 11 L-3.2 3.2 L-11 0 L-3.2-3.2Z'
 
 # ───────────── text as outlines (Fredoka Bold) ─────────────
@@ -35,7 +41,7 @@ def run(t, size, x, y, anchor='start', tr=0):
         cx += G['adv'].get(c, 0) + tr * UPM / size
     return f'<g transform="translate({x:.1f} {y:.1f}) scale({s:.5f} {-s:.5f})">{"".join(parts)}</g>', w
 
-def text(t, size, x, y, fill=INK, anchor='start', tr=0):
+def text(t, size, x, y, fill=TXT, anchor='start', tr=0):
     g, w = run(t, size, x, y, anchor, tr)
     return g.replace('<g ', f'<g fill="{fill}" ', 1), w
 
@@ -44,7 +50,7 @@ def sticker(t, size, x, y, fill='#fff', anchor='middle', sw=None, sh=None):
     g, w = run(t, size, x, y, anchor)
     wsw = sw / s
     gs_, _ = run(t, size, (x if anchor == 'start' else x) + sh, y + sh * 1.15, anchor)
-    gs_ = gs_.replace('<g ', f'<g fill="{INK}" stroke="{INK}" stroke-width="{wsw:.0f}" stroke-linejoin="round" ', 1)
+    gs_ = gs_.replace('<g ', f'<g fill="{SH}" stroke="{SH}" stroke-width="{wsw:.0f}" stroke-linejoin="round" ', 1)
     gm = g.replace('<g ', f'<g fill="{fill}" stroke="{INK}" stroke-width="{wsw:.0f}" stroke-linejoin="round" paint-order="stroke fill" ', 1)
     return gs_ + gm, w
 
@@ -58,7 +64,7 @@ def svg(w, h, body, defs=''):
     return f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {w} {h}" width="{w}" height="{h}" role="img">{CSS}<defs>{defs}</defs>{body}</svg>'
 
 def card(w, h, x=10, y=10, r=30, sh=7, fill=CREAM):
-    return (f'<rect x="{x+sh}" y="{y+sh}" width="{w}" height="{h}" rx="{r}" fill="{INK}"/>'
+    return (f'<rect x="{x+sh}" y="{y+sh}" width="{w}" height="{h}" rx="{r}" fill="{SH}"/>'
             f'<rect x="{x}" y="{y}" width="{w}" height="{h}" rx="{r}" fill="{fill}" stroke="{INK}" stroke-width="3.5"/>')
 
 def compact(n):
@@ -127,7 +133,7 @@ def rank(metric, v):
     return RANKS[r] if r >= 0 else '–'
 
 def cup(cx, cy, got):
-    gold = '#ffd45e' if got else '#e9e3f3'
+    gold = '#ffd45e' if got else '#3a4270'
     st = f'stroke="{INK}" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"'
     return (f'<g transform="translate({cx} {cy})">'
             f'<path d="M-22 -18 C-40 -18 -40 4 -21 6" fill="none" {st}/><path d="M22 -18 C40 -18 40 4 21 6" fill="none" {st}/>'
@@ -146,10 +152,10 @@ def trophies(d):
         inner = card(cw, ch, 0, 0, r=26, sh=5, fill=c)
         inner += f'<g class="b" style="animation-delay:{-i*0.45:.2f}s">{cup(cw/2, 64, got)}</g>'
         t, _ = sticker(compact(v), 34, cw/2, 140, anchor='middle'); inner += t
-        t, _ = text(m.upper(), 13, cw/2, 168, fill=INK, anchor='middle', tr=1.1); inner += t
+        t, _ = text(m.upper(), 13, cw/2, 168, fill=TXT, anchor='middle', tr=1.1); inner += t
         # rank badge
         rw = max(34, width(r, 16) + 20)
-        inner += (f'<rect x="{cw-rw-8+2}" y="12" width="{rw}" height="26" rx="13" fill="{INK}"/><rect x="{cw-rw-8}" y="10" width="{rw}" height="26" rx="13" fill="#fff" stroke="{INK}" stroke-width="3"/>')
+        inner += (f'<rect x="{cw-rw-8+2}" y="12" width="{rw}" height="26" rx="13"  fill="{SH}"/><rect x="{cw-rw-8}" y="10" width="{rw}" height="26" rx="13" fill="#0b1020" stroke="{INK}" stroke-width="3"/>')
         t, _ = text(r, 16, cw-8-rw/2, 29, anchor='middle'); inner += t
         body += f'<g transform="translate({x} {y}) rotate({rot} {cw/2} {ch/2})">{inner}</g>'
     return svg(W, H, body)
@@ -166,7 +172,7 @@ def activity(d, n=30):
     t, _ = sticker('Contribution Activity', 32, 44, 66, anchor='start'); body += t
     total = sum(counts); label = f'{total} contributions · last {len(days)} days'
     lw = width(label, 18) + 44; lx = 10 + cw - lw - 28
-    body += f'<rect x="{lx+3}" y="{34+4}" width="{lw:.0f}" height="40" rx="20" fill="{INK}"/><rect x="{lx}" y="34" width="{lw:.0f}" height="40" rx="20" fill="{MINT}" stroke="{INK}" stroke-width="3"/>'
+    body += f'<rect x="{lx+3}" y="{34+4}" width="{lw:.0f}" height="40"  rx="20" fill="{SH}"/><rect x="{lx}" y="34" width="{lw:.0f}" height="40" rx="20" fill="{MINT}" stroke="{INK}" stroke-width="3"/>'
     t, _ = text(label, 18, lx + lw/2, 60, anchor='middle'); body += t
     # grid + y labels
     for k in range(5):
@@ -175,11 +181,11 @@ def activity(d, n=30):
         t, _ = text(str(v), 15, px0 - 16, y + 5, fill=MUTED, anchor='end'); body += t
     # area + line
     pts = ' '.join(f'{x:.1f},{y:.1f}' for x, y in zip(xs, ys))
-    body += f'<polygon points="{xs[0]:.1f},{py1} {pts} {xs[-1]:.1f},{py1}" fill="{PINK}" fill-opacity=".75"/>'
-    body += f'<polyline points="{pts}" fill="none" stroke="{INK}" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>'
+    body += f'<polygon points="{xs[0]:.1f},{py1} {pts} {xs[-1]:.1f},{py1}" fill="{BR_PINK}" fill-opacity=".22"/>'
+    body += f'<polyline points="{pts}" fill="none" stroke="{SH}" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>'
     body += f'<polyline points="{pts}" fill="none" stroke="{ACCENT}" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>'
     for x, y, c in zip(xs, ys, counts):
-        body += f'<circle cx="{x:.1f}" cy="{y:.1f}" r="{6 if c else 4}" fill="{"#fff" if c else CREAM}" stroke="{INK}" stroke-width="3"/>'
+        body += f'<circle cx="{x:.1f}" cy="{y:.1f}" r="{6 if c else 4}" fill="{"#fff" if c else CARD}" stroke="{INK}" stroke-width="3"/>'
     # x labels
     for i in range(0, len(days), 5):
         dt = datetime.date.fromisoformat(days[i]['date']); t, _ = text(dt.strftime('%b ') + str(dt.day), 14, xs[i], py1 + 32, fill=MUTED, anchor='middle'); body += t
