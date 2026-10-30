@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./assets/toon-banner.svg" alt="Prahlad Singh — Full-Stack Developer | MERN / MEVN | Multi-Tenant SaaS" />
+<img width="100%" src="./assets/night-banner.svg" alt="Prahlad Singh — Full-Stack Developer | MERN / MEVN | Multi-Tenant SaaS" />
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=24&duration=3000&pause=1000&color=dccfff&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Prahlad+Singh;Full-Stack+Developer+(MERN+%2F+MEVN);Building+Multi-Tenant+SaaS+Architectures;Real-Time+Systems+%7C+Socket.io+%7C+PeerJS;Web+%7C+Mobile+%7C+Desktop+(Electron);JWT+%2F+RBAC+%7C+DevOps+on+Linux;Currently+%40+Lifelayer+Health+Solutions" />
@@ -10,24 +10,24 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/prahlad-singh-52162b232" target="_blank"><img height="48" src="./assets/toon-b-linkedin.svg" alt="LinkedIn" /></a>
-<a href="mailto:prahlad.singh.dev@gmail.com"><img height="48" src="./assets/toon-b-email.svg" alt="Email" /></a>
-<a href="https://prahladsingh.in/" target="_blank"><img height="48" src="./assets/toon-b-portfolio.svg" alt="Portfolio" /></a>
-<a href="https://wa.me/919149062842" target="_blank"><img height="48" src="./assets/toon-b-whatsapp.svg" alt="WhatsApp" /></a>
+<a href="https://www.linkedin.com/in/prahlad-singh-52162b232" target="_blank"><img height="48" src="./assets/night-b-linkedin.svg" alt="LinkedIn" /></a>
+<a href="mailto:prahlad.singh.dev@gmail.com"><img height="48" src="./assets/night-b-email.svg" alt="Email" /></a>
+<a href="https://prahladsingh.in/" target="_blank"><img height="48" src="./assets/night-b-portfolio.svg" alt="Portfolio" /></a>
+<a href="https://wa.me/919149062842" target="_blank"><img height="48" src="./assets/night-b-whatsapp.svg" alt="WhatsApp" /></a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=PrahladWebDev&label=Profile%20Views&color=ffc2d4&labelColor=141b33&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/PrahladWebDev?label=Followers&style=for-the-badge&labelColor=141b33&color=bfeedd" alt="followers" />
-<img src="https://img.shields.io/github/stars/PrahladWebDev?label=Stars&style=for-the-badge&labelColor=141b33&color=ffe9a6" alt="stars" />
-<img src="https://img.shields.io/github/languages/count/PrahladWebDev/gathalok?label=Languages&style=for-the-badge&labelColor=141b33&color=bfe3ff" alt="languages" />
-<img src="https://img.shields.io/github/last-commit/PrahladWebDev/gathalok?label=Last%20Commit&style=for-the-badge&labelColor=141b33&color=dccfff" alt="last commit" />
+<img src="https://komarev.com/ghpvc/?username=PrahladWebDev&label=Profile%20Views&color=ffc2d4&labelColor=0b0f1f&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/PrahladWebDev?label=Followers&style=for-the-badge&labelColor=0b0f1f&color=bfeedd" alt="followers" />
+<img src="https://img.shields.io/github/stars/PrahladWebDev?label=Stars&style=for-the-badge&labelColor=0b0f1f&color=ffe9a6" alt="stars" />
+<img src="https://img.shields.io/github/languages/count/PrahladWebDev/gathalok?label=Languages&style=for-the-badge&labelColor=0b0f1f&color=bfe3ff" alt="languages" />
+<img src="https://img.shields.io/github/last-commit/PrahladWebDev/gathalok?label=Last%20Commit&style=for-the-badge&labelColor=0b0f1f&color=dccfff" alt="last commit" />
 
 </div>
 
-<img width="100%" src="./assets/toon-divider.svg" alt="" />
+<img width="100%" src="./assets/night-divider.svg" alt="" />
 
-<p align="center"><img height="62" src="./assets/toon-h-mission.svg" alt="mission" /></p>
+<p align="center"><img height="62" src="./assets/night-h-mission.svg" alt="mission" /></p>
 
 <div align="center">
 
@@ -39,42 +39,42 @@
 
 </div>
 
-<img width="100%" src="./assets/toon-divider.svg" alt="" />
+<img width="100%" src="./assets/night-divider.svg" alt="" />
 
-<p align="center"><img height="62" src="./assets/toon-h-orbit.svg" alt="orbit" /></p>
+<p align="center"><img height="62" src="./assets/night-h-orbit.svg" alt="orbit" /></p>
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=PrahladWebDev&show_icons=true&bg_color=141b33&title_color=f2a93b&text_color=ece9ff&icon_color=f2a93b&border_color=8f89d4&border_radius=22&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=PrahladWebDev&layout=compact&bg_color=141b33&title_color=f2a93b&text_color=ece9ff&icon_color=f2a93b&border_color=8f89d4&border_radius=22&langs_count=8" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=PrahladWebDev&show_icons=true&bg_color=0b0f1f&title_color=f2a93b&text_color=ece9ff&icon_color=f2a93b&border_color=8f89d4&border_radius=22&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=PrahladWebDev&layout=compact&bg_color=0b0f1f&title_color=f2a93b&text_color=ece9ff&icon_color=f2a93b&border_color=8f89d4&border_radius=22&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PrahladWebDev&background=141b33&border=8f89d4&stroke=8f89d4&ring=f2a93b&fire=ff8f7a&currStreakLabel=f2a93b&currStreakNum=ece9ff&sideLabels=f2a93b&sideNums=ece9ff&dates=a7a3c9&border_radius=22" />
+  <img src="https://streak-stats.demolab.com/?user=PrahladWebDev&background=0b0f1f&border=8f89d4&stroke=8f89d4&ring=f2a93b&fire=ff8f7a&currStreakLabel=f2a93b&currStreakNum=ece9ff&sideLabels=f2a93b&sideNums=ece9ff&dates=a7a3c9&border_radius=22" />
 </p>
 
 <p align="center">
-  <img width="100%" src="./assets/generated/toon-activity.svg" alt="Contribution activity graph" />
+  <img width="100%" src="./assets/generated/night-activity.svg" alt="Contribution activity graph" />
 </p>
 
-<p align="center"><img height="62" src="./assets/toon-h-snake.svg" alt="snake" /></p>
+<p align="center"><img height="62" src="./assets/night-h-snake.svg" alt="snake" /></p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrahladWebDev/PrahladWebDev/output/github-snake-toon-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrahladWebDev/PrahladWebDev/output/github-snake-toon-dark.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/PrahladWebDev/PrahladWebDev/output/github-snake-toon-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrahladWebDev/PrahladWebDev/output/github-snake-night-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrahladWebDev/PrahladWebDev/output/github-snake-night-dark.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/PrahladWebDev/PrahladWebDev/output/github-snake-night-dark.svg" />
   </picture>
 </p>
 
-<p align="center"><img height="62" src="./assets/toon-h-trophy.svg" alt="trophy" /></p>
+<p align="center"><img height="62" src="./assets/night-h-trophy.svg" alt="trophy" /></p>
 
 <p align="center">
-  <img width="100%" src="./assets/generated/toon-trophies.svg" alt="Trophy shelf" />
+  <img width="100%" src="./assets/generated/night-trophies.svg" alt="Trophy shelf" />
 </p>
 
-<img width="100%" src="./assets/toon-divider.svg" alt="" />
+<img width="100%" src="./assets/night-divider.svg" alt="" />
 
-<p align="center"><img height="62" src="./assets/toon-h-tech.svg" alt="tech" /></p>
+<p align="center"><img height="62" src="./assets/night-h-tech.svg" alt="tech" /></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,vue,js,ts,html,css,tailwind,nextjs,nodejs,express,nestjs,electron,java,spring,mongodb,mysql,redis,git,github,linux,nginx,postman&theme=dark" alt="Tech stack" />
@@ -107,28 +107,28 @@
 
 </details>
 
-<img width="100%" src="./assets/toon-divider.svg" alt="" />
+<img width="100%" src="./assets/night-divider.svg" alt="" />
 
-<p align="center"><img height="62" src="./assets/toon-h-pinned.svg" alt="pinned" /></p>
+<p align="center"><img height="62" src="./assets/night-h-pinned.svg" alt="pinned" /></p>
 
 <p align="center">
-  <a href="https://github.com/PrahladWebDev/matinee"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=matinee&bg_color=141b33&title_color=f2a93b&text_color=ece9ff&icon_color=f2a93b&border_color=8f89d4&border_radius=22" /></a>
-  <a href="https://github.com/PrahladWebDev/share-vault"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=share-vault&bg_color=141b33&title_color=f2a93b&text_color=ece9ff&icon_color=f2a93b&border_color=8f89d4&border_radius=22" /></a>
+  <a href="https://github.com/PrahladWebDev/matinee"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=matinee&bg_color=0b0f1f&title_color=f2a93b&text_color=ece9ff&icon_color=f2a93b&border_color=8f89d4&border_radius=22" /></a>
+  <a href="https://github.com/PrahladWebDev/share-vault"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=share-vault&bg_color=0b0f1f&title_color=f2a93b&text_color=ece9ff&icon_color=f2a93b&border_color=8f89d4&border_radius=22" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/PrahladWebDev/gathalok"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=gathalok&bg_color=141b33&title_color=f2a93b&text_color=ece9ff&icon_color=f2a93b&border_color=8f89d4&border_radius=22" /></a>
-  <a href="https://github.com/PrahladWebDev/school-erp-mern"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=school-erp-mern&bg_color=141b33&title_color=f2a93b&text_color=ece9ff&icon_color=f2a93b&border_color=8f89d4&border_radius=22" /></a>
+  <a href="https://github.com/PrahladWebDev/gathalok"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=gathalok&bg_color=0b0f1f&title_color=f2a93b&text_color=ece9ff&icon_color=f2a93b&border_color=8f89d4&border_radius=22" /></a>
+  <a href="https://github.com/PrahladWebDev/school-erp-mern"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=school-erp-mern&bg_color=0b0f1f&title_color=f2a93b&text_color=ece9ff&icon_color=f2a93b&border_color=8f89d4&border_radius=22" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/PrahladWebDev/brain-vault"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=brain-vault&bg_color=141b33&title_color=f2a93b&text_color=ece9ff&icon_color=f2a93b&border_color=8f89d4&border_radius=22" /></a>
-  <a href="https://github.com/PrahladWebDev/interview-vault"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=interview-vault&bg_color=141b33&title_color=f2a93b&text_color=ece9ff&icon_color=f2a93b&border_color=8f89d4&border_radius=22" /></a>
+  <a href="https://github.com/PrahladWebDev/brain-vault"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=brain-vault&bg_color=0b0f1f&title_color=f2a93b&text_color=ece9ff&icon_color=f2a93b&border_color=8f89d4&border_radius=22" /></a>
+  <a href="https://github.com/PrahladWebDev/interview-vault"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=interview-vault&bg_color=0b0f1f&title_color=f2a93b&text_color=ece9ff&icon_color=f2a93b&border_color=8f89d4&border_radius=22" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/PrahladWebDev/github-analyzer"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=github-analyzer&bg_color=141b33&title_color=f2a93b&text_color=ece9ff&icon_color=f2a93b&border_color=8f89d4&border_radius=22" /></a>
-  <a href="https://github.com/PrahladWebDev/wardrobe-manager-react-native"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=wardrobe-manager-react-native&bg_color=141b33&title_color=f2a93b&text_color=ece9ff&icon_color=f2a93b&border_color=8f89d4&border_radius=22" /></a>
+  <a href="https://github.com/PrahladWebDev/github-analyzer"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=github-analyzer&bg_color=0b0f1f&title_color=f2a93b&text_color=ece9ff&icon_color=f2a93b&border_color=8f89d4&border_radius=22" /></a>
+  <a href="https://github.com/PrahladWebDev/wardrobe-manager-react-native"><img height="120" src="https://github-stats-extended.vercel.app/api/pin/?username=PrahladWebDev&repo=wardrobe-manager-react-native&bg_color=0b0f1f&title_color=f2a93b&text_color=ece9ff&icon_color=f2a93b&border_color=8f89d4&border_radius=22" /></a>
 </p>
 
-<p align="center"><img height="62" src="./assets/toon-h-galaxies.svg" alt="galaxies" /></p>
+<p align="center"><img height="62" src="./assets/night-h-galaxies.svg" alt="galaxies" /></p>
 
 <div align="center">
 
@@ -155,7 +155,7 @@
 
 </div>
 
-<img width="100%" src="./assets/toon-divider.svg" alt="" />
+<img width="100%" src="./assets/night-divider.svg" alt="" />
 
 <p align="center">
   <picture>
@@ -192,15 +192,15 @@
 
 </div>
 
-<img width="100%" src="./assets/toon-divider.svg" alt="" />
+<img width="100%" src="./assets/night-divider.svg" alt="" />
 
-<p align="center"><img height="62" src="./assets/toon-h-signal.svg" alt="signal" /></p>
+<p align="center"><img height="62" src="./assets/night-h-signal.svg" alt="signal" /></p>
 
 <p align="center">
-  <a href="mailto:prahlad.singh.dev@gmail.com"><img height="48" src="./assets/toon-b-email.svg" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/prahlad-singh-52162b232" target="_blank"><img height="48" src="./assets/toon-b-linkedin.svg" alt="LinkedIn" /></a>
-  <a href="https://wa.me/919149062842" target="_blank"><img height="48" src="./assets/toon-b-whatsapp.svg" alt="WhatsApp" /></a>
-  <a href="https://prahladsingh.in/" target="_blank"><img height="48" src="./assets/toon-b-portfolio.svg" alt="Portfolio" /></a>
+  <a href="mailto:prahlad.singh.dev@gmail.com"><img height="48" src="./assets/night-b-email.svg" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/prahlad-singh-52162b232" target="_blank"><img height="48" src="./assets/night-b-linkedin.svg" alt="LinkedIn" /></a>
+  <a href="https://wa.me/919149062842" target="_blank"><img height="48" src="./assets/night-b-whatsapp.svg" alt="WhatsApp" /></a>
+  <a href="https://prahladsingh.in/" target="_blank"><img height="48" src="./assets/night-b-portfolio.svg" alt="Portfolio" /></a>
 </p>
 
 <p align="center">
@@ -211,4 +211,4 @@
   </picture>
 </p>
 
-<img width="100%" src="./assets/toon-footer.svg" alt="Let's build something great together" />
+<img width="100%" src="./assets/night-footer.svg" alt="Let's build something great together" />
