@@ -77,7 +77,7 @@
 <p align="center"><img height="62" src="./assets/night-h-tech.svg" alt="tech" /></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,js,ts,html,css,tailwind,nextjs,nodejs,express,nestjs,electron,java,spring,mongodb,mysql,redis,git,github,linux,nginx,postman&theme=dark" alt="Tech stack" />
+  <img width="100%" src="./assets/night-stack.svg" alt="Tech constellation: React, Vue, Next.js, TypeScript, Tailwind, Electron, Node.js, Express, NestJS, Socket.io, Spring Boot, Java, MongoDB, MySQL, Redis, Nginx, Linux, Git" />
 </p>
 
 <p align="center">
