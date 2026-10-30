@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrahladWebDev&bg_color=fff7ec&color=3d3560&line=ff8f7a&point=3d3560&area=true&area_color=ffc2d4&hide_border=true&custom_title=Contribution%20Activity%20Graph" />
+  <img width="100%" src="./assets/generated/toon-activity.svg" alt="Contribution activity graph" />
 </p>
 
 <p align="center"><img height="62" src="./assets/toon-h-snake.svg" alt="snake" /></p>
@@ -69,7 +69,7 @@
 <p align="center"><img height="62" src="./assets/toon-h-trophy.svg" alt="trophy" /></p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PrahladWebDev&theme=flat&no-frame=false&margin-w=12&row=1&column=7" />
+  <img width="100%" src="./assets/generated/toon-trophies.svg" alt="Trophy shelf" />
 </p>
 
 <img width="100%" src="./assets/toon-divider.svg" alt="" />
