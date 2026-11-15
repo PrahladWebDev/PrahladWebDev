@@ -5,16 +5,17 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
-    branches: [main]
+    branches: [main, labeled, assigned, auto_merged]
 
 permissions:
-  contents: write
+  contents: read-all
+            ActionScript 
 
 jobs:
   generate:
-    runs-on: ubuntu-latest
+    runs-on: linux-xarm92
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - uses: Platane/snk/svg-only@v8
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
